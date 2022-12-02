@@ -1,0 +1,36 @@
+﻿Status,ID,Location,Machine,Product,Category,Transaction,TransDate,Type,RCoil,RPrice,RQty,MCoil,MPrice,MQty,LineTotal,TransTotal,Date
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Red Bull - Energy Drink - Sugar Free,Carbonated,14515778905,"Saturday, January 1, 2022",Credit,148,3.5,1,148,3.5,1,3.5,3.5,1/1/2022
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Red Bull - Energy Drink - Sugar Free,Carbonated,14516018629,"Saturday, January 1, 2022",Credit,148,3.5,1,148,3.5,1,3.5,5,1/1/2022
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Takis - Hot Chilli Pepper & Lime,Food,14516018629,"Saturday, January 1, 2022",Credit,123,1.5,1,123,1.5,1,1.5,5,1/1/2022
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Takis - Hot Chilli Pepper & Lime,Food,14516020373,"Saturday, January 1, 2022",Credit,123,1.5,1,123,1.5,1,1.5,1.5,1/1/2022
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Red Bull - Energy Drink - Sugar Free,Carbonated,14516021756,"Saturday, January 1, 2022",Credit,148,3.5,1,148,3.5,1,3.5,3.5,1/1/2022
+Processed,VJ300205292,Brunswick Sq Mall,BSQ Mall x1364 - Zales,Bai Antioxidant - Brasilia BB,Non Carbonated,14517568743,"Sunday, January 2, 2022",Cash,146,2.5,1,146,2.5,1,2.5,2.5,1/2/2022
+Processed,VJ300205292,Brunswick Sq Mall,BSQ Mall x1364 - Zales,Miss Vickie's Potato Chip - Sea Salt & Vinega,Food,14518731524,"Monday, January 3, 2022",Cash,114,1.5,1,114,1.5,1,1.5,1.5,1/2/2022
+Processed,VJ300320686,Earle Asphalt,Earle Asphalt x1371,Miss Vickie's Potato Chip - Lime & Cracked Pe,Food,14519162059,"Monday, January 3, 2022",Credit,110,1.5,1,110,1.5,1,1.5,1.5,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Monster Energy Original,Carbonated,14519670154,"Monday, January 3, 2022",Credit,144,3,1,144,3,1,3,3,1/3/2022
+Processed,VJ300320686,Earle Asphalt,Earle Asphalt x1371,Seapoint Farms Dry Roasted Edamame - Wasabi,Food,14520315330,"Monday, January 3, 2022",Credit,134,2.5,1,134,2.5,1,2.5,2.5,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Snapple Diet Tea - Lemon,Non Carbonated,14520522827,"Monday, January 3, 2022",Cash,143,2.5,1,143,2.5,1,2.5,2.5,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Skinny Pop Popcorn,Food,14520523909,"Monday, January 3, 2022",Cash,111,1.5,1,111,1.5,1,1.5,1.5,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Stretch Island Fruit Leathers Snacks - Variet,Food,14520526471,"Monday, January 3, 2022",Cash,131,1,1,131,1,1,1,1,1/3/2022
+Processed,VJ300320686,Earle Asphalt,Earle Asphalt x1371,KitKat - Crisp Wafers,Food,14520549978,"Monday, January 3, 2022",Credit,136,1.75,1,136,1.75,1,1.75,1.75,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Skinny Pop Popcorn,Food,14520565434,"Monday, January 3, 2022",Cash,111,1.5,1,111,1.5,1,1.5,1.5,1/3/2022
+Processed,VJ300320686,Earle Asphalt,Earle Asphalt x1371,Wonderful Pistachios - Variety,Food,14520852487,"Monday, January 3, 2022",Cash,132,2,1,132,2,1,2,2,1/3/2022
+Processed,VJ300320686,Earle Asphalt,Earle Asphalt x1371,Wonderful Pistachios - Variety,Food,14521022594,"Monday, January 3, 2022",Cash,132,2,1,132,2,1,2,2,1/3/2022
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Monster Energy Original,Carbonated,14521288291,"Monday, January 3, 2022",Credit,146,3,1,146,3,1,3,3,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Snapple Diet Tea - Lemon,Non Carbonated,14521610477,"Monday, January 3, 2022",Cash,143,2.5,1,143,2.5,1,2.5,2.5,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Monster Energy Original,Carbonated,14522404967,"Monday, January 3, 2022",Cash,146,3,1,146,3,1,3,3,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Monster Energy Original,Carbonated,14522580949,"Monday, January 3, 2022",Cash,144,3,1,144,3,1,3,3,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Spindrift - Sparkling Water  Lime,Carbonated,14522634264,"Tuesday, January 4, 2022",Cash,140,1,1,140,1,1,1,1,1/3/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,KitKat - Crisp Wafers,Food,14522634805,"Tuesday, January 4, 2022",Cash,134,2,1,134,2,1,2,2,1/3/2022
+Processed,VJ300320611,Brunswick Sq Mall,BSQ Mall x1366 - ATT,Miss Vickie's Potato Chip - Sea Salt Original,Food,14522946212,"Tuesday, January 4, 2022",Credit,114,1.5,1,114,1.5,1,1.5,1.5,1/4/2022
+Processed,VJ300205292,Brunswick Sq Mall,BSQ Mall x1364 - Zales,KitKat - Crisp Wafers,Food,14522947106,"Tuesday, January 4, 2022",Credit,130,2,2,130,2,2,4,4,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Jacks Links Bar Beef Strip,Food,14524620560,"Tuesday, January 4, 2022",Cash,137,2,1,137,2,1,2,2,1/4/2022
+Processed,VJ300320686,Earle Asphalt,Earle Asphalt x1371,Wonderful Pistachios - Variety,Food,14524674062,"Tuesday, January 4, 2022",Cash,132,2,1,132,2,1,2,2,1/4/2022
+Processed,VJ300205292,Brunswick Sq Mall,BSQ Mall x1364 - Zales,Vitamin Water - XXX Acai BB Pomegranate,Water,14525272529,"Tuesday, January 4, 2022",Cash,147,2.75,1,147,2.75,1,2.75,2.75,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Cheetos - Fleming Hot Crunchy,Food,14526266403,"Tuesday, January 4, 2022",Cash,122,1.5,1,122,1.5,1,1.5,1.5,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,KitKat - Crisp Wafers,Food,14526267747,"Tuesday, January 4, 2022",Cash,134,2,1,134,2,1,2,2,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Cheetos - Fleming Hot Crunchy,Food,14526269922,"Tuesday, January 4, 2022",Cash,122,1.5,1,122,1.5,1,1.5,1.5,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Spindrift - Sparkling Water  Lime,Carbonated,14526308615,"Tuesday, January 4, 2022",Cash,140,1,1,140,1,1,1,1,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Spindrift - Sparkling Water  Lime,Carbonated,14526311069,"Tuesday, January 4, 2022",Cash,140,1,1,140,1,1,1,1,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Pure Organic Fruit Bar - Strawberry Banana,Food,14526315544,"Tuesday, January 4, 2022",Cash,138,1,1,138,1,1,1,1,1/4/2022
+Processed,VJ300320609,GuttenPlans,GuttenPlans x1367,Cheetos - Fleming Hot Crunchy,Food,14526868345,"Tuesday, January 4, 2022",Cash,122,1.5,1,122,1.5,1,1.5,1.5,1/4/2022
